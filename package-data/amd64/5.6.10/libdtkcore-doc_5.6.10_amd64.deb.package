@@ -6,7 +6,7 @@ Section: libdevel
 Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 2102
-Filename: ./amd64/libdtkcore-doc_5.6.10_amd64.deb
+Filename: ./amd64/5.6.10/libdtkcore-doc_5.6.10_amd64.deb
 Size: 1498848
 MD5sum: 5eac38a133f8d0585ec0abfe03717e92
 SHA1: d3e62af415db1a62a009b9fb80e83058c40faba6
