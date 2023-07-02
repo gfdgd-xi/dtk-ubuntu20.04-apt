@@ -6,7 +6,7 @@ Section: libdevel
 Source: dtkgui
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 2446
-Filename: ./libdtkgui-doc_5.6.10_amd64.deb
+Filename: ./amd64/libdtkgui-doc_5.6.10_amd64.deb
 Size: 1560996
 MD5sum: 5d26e7ba014e971e521e574ef8a5c5f8
 SHA1: 0ad542a8b739caabc6d189e7f49e3ad7f7659d72

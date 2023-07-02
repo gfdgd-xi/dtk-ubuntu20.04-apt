@@ -6,7 +6,7 @@ Section: libdevel
 Source: dtkwidget
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 8
-Filename: ./dtkwidget-doc_5.6.10_amd64.deb
+Filename: ./amd64/dtkwidget-doc_5.6.10_amd64.deb
 Size: 2348
 MD5sum: ab7fb1a6365cf60ad7e62d48d06c923d
 SHA1: db2d811bdc777691f106f6fa2c83a899782625e1

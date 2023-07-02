@@ -7,7 +7,7 @@ Source: dtkcore
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Installed-Size: 1069
 Depends: libc6 (>= 2.14), libdtkcore5 (= 5.6.10), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5dbus5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 4.8), qtbase-abi-5-12-8
-Filename: ./libdtkcore5-bin_5.6.10_amd64.deb
+Filename: ./amd64/libdtkcore5-bin_5.6.10_amd64.deb
 Size: 261832
 MD5sum: 3a8c7377a06a6a6c3769810b541b176c
 SHA1: 2610de0796defe3a9cc74158899f12b8bd3e293e
