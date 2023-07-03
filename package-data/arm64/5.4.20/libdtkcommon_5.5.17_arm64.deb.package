@@ -1,0 +1,21 @@
+Package: libdtkcommon
+Architecture: arm64
+Version: 5.5.17
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 11
+Depends: dconf-gsettings-backend | gsettings-backend
+Conflicts: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
+Replaces: libdtkcore5 (<< 5.4.10), libdtkgui5 (<< 5.4.10)
+Filename: ./arm64/5.4.20/libdtkcommon_5.5.17_arm64.deb
+Size: 2132
+MD5sum: 0c9182c86c78deef1be184dd52cd8aa6
+SHA1: 70ebe608f57a3fc5bcbb36298cea66f5cf4606e1
+SHA256: 9f7dc0b3324e3f7f199436c11c6aedadf0130490cc9ca942c1e81c62928e5d4d
+SHA512: eb9cc3641d408a500a2475c5f3e531f1d9398a34902032cdbfc118747eeafa86c10fae06df2c0c123fdfc8b371b90ada1563b53088fa20061e32b1fa194982b2
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public configuration files
+
