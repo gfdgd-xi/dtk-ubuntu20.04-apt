@@ -1,0 +1,28 @@
+Package: libxcb-util0
+Architecture: amd64
+Version: 0.3.8.1-1+rebuild
+Multi-Arch: same
+Priority: extra
+Section: libs
+Source: xcb-util
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 63
+Depends: libc6 (>= 2.8), libxcb1
+Filename: ./amd64/5.4.20/libxcb-util0_0.3.8.1-1+rebuild_amd64.deb
+Size: 21396
+MD5sum: 0005f173346d38b7bd527a388af6a467
+SHA1: 8140ec186a2f840eaba58d41eb6927f537059963
+SHA256: d571cf09a867aa8a9d416e3bfdfdbb53dae1f97d0f499cc4f7ef9124b953f9ca
+SHA512: 649978682f7e63263ef5891d98f39a713a4826c032033855bc84b80a3a149e941a9a792ededaeabc47c3db3e009d5bc4cc7fb68f2d4b12d4738a2ef060985067
+Homepage: http://xcb.freedesktop.org
+Description: utility libraries for X C Binding -- atom, aux and event
+ This package contains the library files needed to run software using
+ libxcb-util.
+ .
+ The xcb-util module provides a number of libraries which sit on top of
+ libxcb, the core X protocol library, and some of the extension
+ libraries. These experimental libraries provide convenience functions
+ and interfaces which make the raw X protocol more usable. Some of the
+ libraries also provide client-side code which is not strictly part of
+ the X protocol but which have traditionally been provided by Xlib.
+
